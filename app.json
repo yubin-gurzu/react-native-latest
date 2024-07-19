@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0b815f4b-c293-4d4c-9cec-e57d06acb551"
+      }
+    },
+    "owner": "yubin-gurzu"
   }
 }
